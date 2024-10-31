@@ -1,0 +1,11 @@
+.el-card {
+    --el-card-border-radius: 1rem !important;
+}
+
+.border-radius-1rem {
+    border-radius: 1rem !important;
+}
+
+.margin-1rem {
+    margin: 1rem !important;
+}
